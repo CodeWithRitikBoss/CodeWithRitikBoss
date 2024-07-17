@@ -201,7 +201,6 @@ You can click the Preview link to take a look at your changes.
     <img alt="coding" width="160" height="160" src="https://media1.giphy.com/media/UiqGarlbgmzAlCcLli/200.webp?cid=ecf05e474r2oal9wxdyllrz2bqn0uavv2xr6lvep7nnz9kau&ep=v1_gifs_search&rid=200.webp&ct=g">
     <img alt="coding" width="160" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam44dWsxczFleGNwcnNlZ3h0ajB2dWRqeTBib3Z0OW4weHJ2OWVucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/200.webp">
     <img alt="coding" width="160" height="160" src="https://media3.giphy.com/media/PvvSfSDFoAL5e/200.webp?cid=ecf05e47wd4p4xnyk5nhqx41ij5pl9w3fr9q1jnt1kne02gn&ep=v1_gifs_related&rid=200.webp&ct=g">
-    <img alt="coding" width="160" height="160" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e475e93rv30nk64yhvavex8zsjnduaemmf9w4lugdqv&ep=v1_gifs_related&rid=200.webp&ct=g">
 </div>
 <hr>
 <div>
@@ -210,7 +209,13 @@ You can click the Preview link to take a look at your changes.
     <img alt="coding" width="160" height="160" src="https://media1.giphy.com/media/kz1G7iG5cMkD4fzNSk/200w.webp?cid=ecf05e47o2ytmmovg9ng709ovqrgocuj7v4qvmfn8r26g9hz&ep=v1_gifs_related&rid=200w.webp&ct=g">
     <img alt="coding" width="160" height="160" src="https://media1.giphy.com/media/BemKqR9RDK4V2/200w.webp?cid=ecf05e475e93rv30nk64yhvavex8zsjnduaemmf9w4lugdqv&ep=v1_gifs_related&rid=200w.webp&ct=g">
     <img alt="coding" width="160" height="160" src="https://media3.giphy.com/media/mJzKn0z9GGkkjRhrI5/200w.webp?cid=ecf05e47wpud71gc2shz234jh6wclyncn4t1yn6uig28ecab&ep=v1_gifs_related&rid=200w.webp&ct=g">
+</div>
+<div>
+    <img alt="coding" width="160" height="160" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e475e93rv30nk64yhvavex8zsjnduaemmf9w4lugdqv&ep=v1_gifs_related&rid=200.webp&ct=g">
     <img alt="coding" width="160" height="160" src="https://media4.giphy.com/media/qirCCfnNxpdNnn5VeS/200w.webp?cid=ecf05e47wpud71gc2shz234jh6wclyncn4t1yn6uig28ecab&ep=v1_gifs_related&rid=200w.webp&ct=g">
+    <img alt="coding" width="160" height="160" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/200.webp?cid=ecf05e47ue6usti3p9j68zo4w711uzvcsip3ryu91gdh65sx&ep=v1_gifs_related&rid=200.webp&ct=g">
+    <img alt="coding" width="160" height="160" src="https://media0.giphy.com/media/JpLVqOg8xTY3EmoYF7/200w.webp?cid=ecf05e47ue6usti3p9j68zo4w711uzvcsip3ryu91gdh65sx&ep=v1_gifs_related&rid=200w.webp&ct=g">
+    <img alt="coding" width="160" height="160" src="https://media2.giphy.com/media/Fn1XLXZORb7H2/giphy.webp?cid=ecf05e47qyvltysptyhnj1jn3z6bl4tz71nsro0uqzuhz1xe&ep=v1_gifs_related&rid=giphy.webp&ct=g">
 </div>
 <p>🎞️ ✨ 🎇 ♂️ 🤴 🙋‍ ✨ 🎞️ <b><i>----> Meme will come soon 🔜 </b></i></p>
 <!-- <hr> -->
