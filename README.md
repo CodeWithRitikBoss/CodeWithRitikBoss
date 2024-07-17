@@ -211,6 +211,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="coding" width="160" height="160" src="https://media1.giphy.com/media/BemKqR9RDK4V2/200w.webp?cid=ecf05e475e93rv30nk64yhvavex8zsjnduaemmf9w4lugdqv&ep=v1_gifs_related&rid=200w.webp&ct=g">
     <img alt="coding" width="160" height="160" src="https://media3.giphy.com/media/mJzKn0z9GGkkjRhrI5/200w.webp?cid=ecf05e47wpud71gc2shz234jh6wclyncn4t1yn6uig28ecab&ep=v1_gifs_related&rid=200w.webp&ct=g">
 </div>
+<hr>
 <div>
     <img alt="coding" width="160" height="160" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e475e93rv30nk64yhvavex8zsjnduaemmf9w4lugdqv&ep=v1_gifs_related&rid=200.webp&ct=g">
     <img alt="coding" width="160" height="160" src="https://media4.giphy.com/media/qirCCfnNxpdNnn5VeS/200w.webp?cid=ecf05e47wpud71gc2shz234jh6wclyncn4t1yn6uig28ecab&ep=v1_gifs_related&rid=200w.webp&ct=g">
