@@ -177,3 +177,58 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithritikcoder&show_icons=true&locale=en&layout=compact" alt="codewithritikcoder" /></p> -->
 
 <hr>
+<p align="left"> <a href="https://twitter.com/CodeWithRitik" target="blank"><img src="https://img.shields.io/twitter/follow/CodeWithRitik?logo=twitter&style=for-the-badge" alt="RitikCoder's Twitter" /></a> </p>
+<!-- end -->
+
+<br>
+## 🏆 GitHub Trophies
+<!-- ![](https://github-profile-trophy.vercel.app/?username=CodeWithRitikCoder&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4) -->
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=ritikcoder)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<hr>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=CodeWithRitikCoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<!-- <img src="https://rm.up.railway.app/" width="512px"/> -->
+<p>🎞️ ✨ 🎇 ♂️ 🤴 🙋‍ ✨ 🎞️ <b><i>----> Meme will come soon 🔜 </b></i></p>
+<!-- <hr> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithritikcoder&label=Profile%20views&color=0e75b6&style=flat" alt="codewithritikcoder" /> </p> -->
+
+<hr>
+    <img align="left" alt="coding" width="400" height="100" src="https://cdn-images-1.medium.com/max/1200/0*D4c3Wot2boeghGqI.gif">
+    <img align="right" alt="coding" width="400" height="100" src="https://media.tenor.com/images/7c37724f05ed6d2272d1eaa00d0b06a9/tenor.gif">
+    <br><br><br><br><br>
+    <img align="left" alt="coding" width="150" margint-Left src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
+    <img align="right" alt="coding" width="150" margint-Left src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
+    <hr>
+    <h3>☑️ CAREER OBJECTIVE ☑️ </h3>
+    <h4> To obtain innovative and a challenging 
+         career in a growing organization which 
+         gives me an opportunity to utilize my skills 
+         and knowledge and provides me an 
+         opportunity for career growth. </h4>
+<!--          <br> -->
+         <hr>
+         <details>
+    <summary><h3>🙅‍♂️🙅 Forrest's Coding Journey </h3> </summary>
+    <h2>--Coding Journey--</h2>
+    I started my coding joumey as a naive computer science student with a passion to learn everything I could about this programming
+    world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app. but that soon
+    got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation.
+    However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my
+    software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always
+    bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken
+    the leap away from that safety net into this uncofortable, unexplored world that it being a creator. And it worked out, but again, it
+    became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the
+    day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream
+    younger me had of building my own app, my own product And in order to do that, I'll be implmementing a few measures to streamline
+    my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm
+    putting in place now until the end of 2023. Don't wait up, because I'm coming.
+    </details>
+<hr>
