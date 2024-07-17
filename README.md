@@ -16,7 +16,11 @@ You can click the Preview link to take a look at your changes.
 <!-- ![image](https://blog.mphomphego.co.za/assets/2020-07-10-How-to-make-your-GitHub-profile-look-fancy.png) -->
 ![image](TopBanner.png)
 <!-- ![image](https://github.com/CodeWithRitikCoder/CodeWithRitikCoder/blob/main/banner1.png) -->
-<h1 align="center">Hi 👋, I'm Ritik verma</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ritik verma</h1> -->
+<h1 align="center">
+    <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritik+Verma!;" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋+I'm+Ritik+Verma;" />
+</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="500" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif">
@@ -176,10 +180,19 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithritikcoder&show_icons=true&locale=en&layout=compact" alt="codewithritikcoder" /></p> -->
-
 <hr>
 <p align="left"> <a href="https://twitter.com/CodeWithRitik" target="blank"><img src="https://img.shields.io/twitter/follow/CodeWithRitik?logo=twitter&style=for-the-badge" alt="RitikCoder's Twitter" /></a> </p>
 <!-- end -->
+<hr>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CodeWithRitikBoss&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=CodeWithRitikBoss&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <!-- <img width=325 align="center" src="https://github-readme-stats-CodeWithRitikBoss.vercel.app/api/top-langs/?username=CodeWithRitikBoss&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+</div>
+<hr>
 
 <br>
 ## 🏆 GitHub Trophies
@@ -238,6 +251,12 @@ You can click the Preview link to take a look at your changes.
          opportunity for career growth. </h4>
 <!--          <br> -->
          <hr>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+<hr/>
          <details>
     <summary><h3>🙅‍♂️🙅 Forrest's Coding Journey </h3> </summary>
     <h2>--Coding Journey--</h2>
