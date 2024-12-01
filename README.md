@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [All of my projects are available on Github](All of my projects are available on Github)
 
-- 📫 How to reach me **CodeWithRitikCoder@gamil.com**
+- 📫 How to reach me **codewithritikcoder@gamil.com**
 
 <!-- - 📄 Know about my experiences [My Resumes] - (<a href="https://drive.google.com/file/d/1l52uSAxMy5yc5oUGfKag3hqXIOk2w2VM/view?usp=sharing">My Resume</a>) -->
 - - 📄 Know about my experiences [My Resumes] - (<a href="My Resumes1.png">My Resume</a>)
